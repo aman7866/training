@@ -1,0 +1,5 @@
+public class greeting {
+public void greet(){
+system.out.print("Hello,good evening");
+}
+}
